@@ -14,7 +14,7 @@ Data Management: Uses arrays or collections to manage ticket records (depending 
 
 User-Friendly CLI: Operates via an easy-to-use command-line interface.
 
------
+--------
 
 Technologies Used
 
